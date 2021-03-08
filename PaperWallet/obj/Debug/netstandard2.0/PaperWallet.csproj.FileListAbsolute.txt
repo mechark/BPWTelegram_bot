@@ -1,0 +1,9 @@
+C:\Users\forru\source\repos\BitcoinPaperWallet\PaperWallet\bin\Debug\netstandard2.0\PaperWallet.deps.json
+C:\Users\forru\source\repos\BitcoinPaperWallet\PaperWallet\bin\Debug\netstandard2.0\PaperWallet.dll
+C:\Users\forru\source\repos\BitcoinPaperWallet\PaperWallet\bin\Debug\netstandard2.0\PaperWallet.pdb
+C:\Users\forru\source\repos\BitcoinPaperWallet\PaperWallet\obj\Debug\netstandard2.0\PaperWallet.AssemblyInfoInputs.cache
+C:\Users\forru\source\repos\BitcoinPaperWallet\PaperWallet\obj\Debug\netstandard2.0\PaperWallet.AssemblyInfo.cs
+C:\Users\forru\source\repos\BitcoinPaperWallet\PaperWallet\obj\Debug\netstandard2.0\PaperWallet.csproj.CoreCompileInputs.cache
+C:\Users\forru\source\repos\BitcoinPaperWallet\PaperWallet\obj\Debug\netstandard2.0\PaperWallet.dll
+C:\Users\forru\source\repos\BitcoinPaperWallet\PaperWallet\obj\Debug\netstandard2.0\PaperWallet.pdb
+C:\Users\forru\source\repos\BitcoinPaperWallet\PaperWallet\obj\Debug\netstandard2.0\PaperWallet.csprojAssemblyReference.cache

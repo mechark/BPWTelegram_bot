@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Telegram.Bot" Version="15.7.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PaperWallet\PaperWallet.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="PaperWallet">
+      <HintPath>..\PaperWallet\obj\Debug\netstandard2.0\PaperWallet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

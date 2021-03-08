@@ -1,0 +1,17 @@
+C:\Users\forru\source\repos\BitcoinPaperWallet\BitcoinPaperWallet\publish\BitcoinPaperWallet.exe
+C:\Users\forru\source\repos\BitcoinPaperWallet\BitcoinPaperWallet\publish\BitcoinPaperWallet.dll
+C:\Users\forru\source\repos\BitcoinPaperWallet\BitcoinPaperWallet\publish\BitcoinPaperWallet.deps.json
+C:\Users\forru\source\repos\BitcoinPaperWallet\BitcoinPaperWallet\publish\BitcoinPaperWallet.runtimeconfig.json
+C:\Users\forru\source\repos\BitcoinPaperWallet\BitcoinPaperWallet\publish\BitcoinPaperWallet.pdb
+C:\Users\forru\source\repos\BitcoinPaperWallet\BitcoinPaperWallet\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\forru\source\repos\BitcoinPaperWallet\BitcoinPaperWallet\publish\Microsoft.Win32.SystemEvents.dll
+C:\Users\forru\source\repos\BitcoinPaperWallet\BitcoinPaperWallet\publish\NBitcoin.dll
+C:\Users\forru\source\repos\BitcoinPaperWallet\BitcoinPaperWallet\publish\Newtonsoft.Json.dll
+C:\Users\forru\source\repos\BitcoinPaperWallet\BitcoinPaperWallet\publish\QRCoder.dll
+C:\Users\forru\source\repos\BitcoinPaperWallet\BitcoinPaperWallet\publish\System.Drawing.Common.dll
+C:\Users\forru\source\repos\BitcoinPaperWallet\BitcoinPaperWallet\publish\Telegram.Bot.dll
+C:\Users\forru\source\repos\BitcoinPaperWallet\BitcoinPaperWallet\publish\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\forru\source\repos\BitcoinPaperWallet\BitcoinPaperWallet\publish\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\forru\source\repos\BitcoinPaperWallet\BitcoinPaperWallet\publish\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\forru\source\repos\BitcoinPaperWallet\BitcoinPaperWallet\publish\PaperWallet.dll
+C:\Users\forru\source\repos\BitcoinPaperWallet\BitcoinPaperWallet\publish\PaperWallet.pdb
